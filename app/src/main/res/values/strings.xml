@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCCMnotification</string>
+    <string name="get_notification">Get Notification</string>
+</resources>
